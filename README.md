@@ -1,1 +1,5 @@
-test
+tes:w
+:wq
+
+
+
