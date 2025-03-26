@@ -1,7 +1,9 @@
 TSIG 2025
 
+postgres: $ sudo apt install postgres
+postgis: in ubuntu: $ sudo apt install postgis
 
-postgis (no fuciona aun)https://geodatainsights.com/a-complete-guide-to-install-postgis-on-ubuntu-24-04/
+pgadmin 4. ?
 
 Geoserver https://www.youtube.com/watch?v=6v8Wu7gH71c
 
